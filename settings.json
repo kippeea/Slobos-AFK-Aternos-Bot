@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " stable-Kyns.aternos.me",
+    "ip": "stable-Kyns.aternos.me",
     "port": 55585,
     "version": "",
     "try-creative": false
